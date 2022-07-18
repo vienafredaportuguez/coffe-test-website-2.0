@@ -1,0 +1,92 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blanchedalmond;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+header {
+    background-color:#B47A4F
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+   border-radius: 20px;
+   margin-top: 20px;
+}
+
+.top-nav {
+    float: right;
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: #B47A4F;
+}
+
+button {
+    font-size: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 12px;
+    box-shadow: 0 9px #999;
+    margin-left: 620px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:#B47A4F;  
+}
+
+.hero-banner {
+    padding-bottom: 20px;
+}
+
+.About-us {
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #E6D8CB;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+.menu-main {
+    display: block;
+    text-align: center;
+    grid-column: auto;
+    background-color: #B47A4F;
+    border-radius: 20px;
+    color: antiquewhite;
+    font-weight: bold;
+    padding-bottom: 20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+
+footer {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.rounded {
+    border-top: 8px solid#9D5D2D;
+    border-radius: 5px;
+}
+
+.rounded-1 {
+    border-radius: 5px; 
+}
