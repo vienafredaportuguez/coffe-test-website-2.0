@@ -24,6 +24,7 @@ p {
 img {
    border-radius: 20px;
    margin-top: 20px;
+   filter: drop-shadow(5px 5px 5px #222);
 }
 
 .top-nav {
@@ -52,11 +53,12 @@ button {
 .About-us {
     text-align: center;
     border-radius: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px;
     background-color: #E6D8CB;
     margin-bottom: 20px;
     margin-top: 20px;
+    filter: drop-shadow(5px 5px 5px #222);
+    
 }
 
 ul {
@@ -72,9 +74,26 @@ ul {
     color: antiquewhite;
     font-weight: bold;
     padding-bottom: 20px;
-    font-size: 20px;
+    font-size: 20   px;
     margin-bottom: 20px;
+    text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
+    filter: drop-shadow(5px 5px 5px #222);
+}
 
+.menu-text {
+    font-size: 50px;
+}
+
+.coffee-text {
+    font-size: 30px; 
+}
+
+.pasta-text {
+    font-size: 30px 
+}
+
+.pastry-text {
+    font-size: 30px  
 }
 
 footer {
